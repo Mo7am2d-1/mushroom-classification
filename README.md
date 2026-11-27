@@ -1,6 +1,6 @@
 # Mushroom Edibility Classification
 
-A practice project from my machine learning course. It classifies
+Practice project built with AI assistance on a public dataset. It classifies
 mushrooms as edible or poisonous from 22 categorical features (cap shape,
 odor, gill size, ...). It has two parts:
 
